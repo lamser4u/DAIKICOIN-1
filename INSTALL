@@ -1,0 +1,9 @@
+Building DAIKICOIN
+
+See doc/readme-qt.rst for instructions on building DAIKICOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DAIKICOIN.
+
+See doc/build-*.txt for instructions on building daikicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DAIKICOIN.
